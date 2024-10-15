@@ -1,0 +1,46 @@
+{
+  "name": "hb-hue-tools",
+  "description": "Homebridge Hue Tools",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "keywords": [
+    "philips",
+    "signify",
+    "hue",
+    "philipshue",
+    "philips-hue"
+  ],
+  "type": "module",
+  "exports": {
+    "./*": "./lib/*.js"
+  },
+  "bin": {
+    "ph": "cli/ph.js"
+  },
+  "dependencies": {
+    "hb-lib-tools": "~2.0.6",
+    "xml2js": "~0.6.2"
+  },
+  "scripts": {
+    "prepare": "standard && rm -rf out && jsdoc -c jsdoc.json",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebaauw/hb-hue-Tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ebaauw/hb-hue-tools/issues"
+  },
+  "homepage": "https://github.com/ebaauw/hb-hue-tools#readme",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/ebaauw"
+    },
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/ebaauw/EUR"
+    }
+  ]
+}
