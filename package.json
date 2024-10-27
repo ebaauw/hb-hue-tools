@@ -18,7 +18,7 @@
     "ph": "cli/ph.js"
   },
   "dependencies": {
-    "hb-lib-tools": "~2.0.6",
+    "hb-lib-tools": "~2.1.0",
     "xml2js": "~0.6.2"
   },
   "scripts": {
