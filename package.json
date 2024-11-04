@@ -2,7 +2,7 @@
   "name": "hb-hue-tools",
   "description": "Homebridge Hue Tools",
   "license": "Apache-2.0",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "keywords": [
     "philips",
     "signify",
