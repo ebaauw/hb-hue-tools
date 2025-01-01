@@ -8,7 +8,7 @@
 </span>
 
 ## Homebridge Hue Tools
-Copyright © 2016-2024 Erik Baauw. All rights reserved.
+Copyright © 2016-2025 Erik Baauw. All rights reserved.
 
 ### Introduction
 This repository provides a standalone installation of the command-line utility from [Homebridge Hue](https://github.com/ebaauw/homebridge-hue):
