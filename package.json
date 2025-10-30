@@ -14,6 +14,11 @@
   "exports": {
     "./*": "./lib/*.js"
   },
+  "files": [
+    "index.js",
+    "lib",
+    "cli"
+  ],
   "bin": {
     "ph": "cli/ph.js"
   },
@@ -21,7 +26,7 @@
     "node": "^24||^22||^20"
   },
   "dependencies": {
-    "hb-lib-tools": "~2.2.12",
+    "hb-lib-tools": "~2.2.13",
     "xml2js": "~0.6.2"
   },
   "scripts": {
