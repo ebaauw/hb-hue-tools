@@ -3,7 +3,7 @@
 // hb-hue-tools/cli/ph.js
 //
 // Homebridge Hue Tools.
-// Copyright © 2018-2025 Erik Baauw. All rights reserved.
+// Copyright © 2018-2026 Erik Baauw. All rights reserved.
 //
 // Command line interface to Philips Hue API.
 
